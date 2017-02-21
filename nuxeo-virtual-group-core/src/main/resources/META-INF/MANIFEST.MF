@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.nuxeo.virtual.group.nuxeo-virtual-group-core;sing
+ leton=true
+Bundle-Version: 1.0.0
+Bundle-Name: nuxeo-virtual-group-core
+Bundle-ClassPath: .
+Bundle-ActivationPolicy: lazy
+Bundle-ManifestVersion: 2
+Bundle-Vendor: nuxeo.virtual.group
+Nuxeo-Component: OSGI-INF/schemas-custom.xml,OSGI-INF/computed-group-c
+ ontrib.xml,OSGI-INF/user-layout.xml 
+
